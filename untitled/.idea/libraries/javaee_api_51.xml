@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="javaee-api-51">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/target/RER-1.0-SNAPSHOT/WEB-INF/lib/javaee-api-5.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
